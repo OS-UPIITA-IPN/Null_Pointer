@@ -1,7 +1,7 @@
 # Null_Pointer
 Repositorio oficial de Null Pointer, donde se subirán los códigos de eventos y Hackatones
 
-[Ejemplos de problemas de Hackatones](https://www.olimpiadasdeinformatica.org.mx/Resultados/Problemas)
+[Ejemplos de problemas de Hackatones](https://www.olimpiadadeinformatica.org.mx/Resultados/Problemas)
 
 [Practicar Mecanografia](https://monkeytype.com)
 
